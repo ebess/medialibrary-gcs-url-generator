@@ -18,7 +18,6 @@
     ],
     "require": {
         "php": "^7.0",
-        "spatie/laravel-medialibrary": "~6.6.0"
     },
     "autoload": {
         "psr-4": {
